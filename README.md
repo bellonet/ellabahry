@@ -1,4 +1,4 @@
 github pages for the website:  
-ellabahry.com
+www.ellabahry.com
 
 Personal yoga teacher / soap maker website.
